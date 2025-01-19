@@ -1,4 +1,4 @@
-To create a virtual environment as described, we'll need to break down the tasks and functionalities. Let's start by defining the core components and then move on to setting up the initial project structure.
+frame = gaze.annotated_frame()gaze.is_blinking()ratio = gaze.horizontal_ratio()ratio = gaze.vertical_ratio()gaze.is_center()To create a virtual environment as described, we'll need to break down the tasks and functionalities. Let's start by defining the core components and then move on to setting up the initial project structure.
 
 ### Core Components:
 1. **Slot Machines**: Implement real-time simulations for betting and playing.
